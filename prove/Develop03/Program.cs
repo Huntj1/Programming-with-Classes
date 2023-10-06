@@ -11,17 +11,14 @@ class Program
 
         // Display the complete scripture
         myScripture.Display();
+        string userInput = "";
 
         // Continue hiding words until all are hidden
-        while (!myScripture.AllWordsHidden)
+        while (!myScripture.AllWordsHidden() && userInput.ToLower() != "quit")
         {
             // Prompt the user to press Enter or type quit
             Console.WriteLine("\nPress Enter to continue or type 'quit' to exit.");
-            string userInput = Console.ReadLine();
-
-            // Check if the user wants to quit
-            if (userInput.ToLower() == "quit")
-                break;
+            userInput = Console.ReadLine();
 
             // Hide a few random words and display the scripture
             myScripture.HideRandomWords();

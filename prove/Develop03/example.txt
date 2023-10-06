@@ -1,0 +1,6 @@
+allWords = [
+    "And", [0]
+    "now", [1]
+    "my", [2]
+    "sons," [3]
+]
