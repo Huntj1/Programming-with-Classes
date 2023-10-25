@@ -1,4 +1,8 @@
-Nurse,0,Gabie Hunt
-Patient,4313103,Jon Hunt
-Record,Age: 22, Gender: M, Medical Condition: None, Allergies: None,10/20/2023 3:35:51 PM
-Record,This patient came in and had a regular physical done. No labs were taken.,10/20/2023 3:36:39 PM
+Nurse,0,Jon Hunt
+Patient,4313103,James Underhill,22,M,2001-07-15,yes,no,no,Lung Cancer
+Record,Patients Vitals are Normal:Lungs sound like rocks rolling,10/24/2023 10:01:34 PM
+Patient,1234,Sally Jo,23,F,2000-07-21,no,no,no,no
+Nurse,0,Jon Hunt
+Patient,4313103,James Underhill,22,M,2001-07-15,yes,no,no,Lung Cancer
+Record,Patients Vitals are Normal:Lungs sound like rocks rolling,10/24/2023 10:01:34 PM
+Patient,1234,Sally Jo,23,F,2000-07-21,no,no,no,no
