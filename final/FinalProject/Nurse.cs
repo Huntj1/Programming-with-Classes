@@ -11,3 +11,4 @@ public class Nurse
         Patients = new List<Patient>();
     }
 }
+// This is so fun!

@@ -9,3 +9,4 @@ public class MedicalRecords
         Timestamp = DateTime.Now;
     }
 }
+// Super Cool Project!
